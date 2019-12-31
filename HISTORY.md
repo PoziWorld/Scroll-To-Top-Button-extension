@@ -6,6 +6,20 @@
 
 > [Become a patron](https://www.patreon.com/bePatron?c=1906606)
 
+## v8.1.2
+
+### Fixed
+
+* Extension wouldn't work in Waterfox Classic v2019.10.
+
+  > [Issue](https://www.reddit.com/r/waterfox/comments/e4atfn/scroll_to_top_button_no_longer_working_wfclassic/) reported by [KahRed17](https://www.reddit.com/user/KahRed17/).
+
+  > [Issue](https://github.com/PoziWorld/Scroll-To-Top-Button-extension/issues/7) reported by [Graham Perrin (grahamperrin)](https://github.com/grahamperrin).
+
+  > [Help](https://github.com/PoziWorld/Scroll-To-Top-Button-extension/issues/7#issuecomment-569833223) from [lucknaumann](https://github.com/lucknaumann).
+
+---
+
 ## v8.1.1
 
 ### Fixed

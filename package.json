@@ -1,6 +1,6 @@
 {
   "name": "scroll-to-top-button",
-  "version": "8.1.1",
+  "version": "8.1.2",
   "description": "Scroll To Top Button is a browser extension (add-on) for the Google Chrome, Mozilla Firefox, Microsoft Edge, Opera, and some Chromium-based browsers that allows you to quickly get back to the top and/or bottom of a page.",
   "scripts": {
     "dev": "NODE_ENV=development webpack --mode development --progress",
