@@ -6,6 +6,32 @@
 
 > [Become a patron](https://www.patreon.com/bePatron?c=1906606)
 
+## v10.0.0
+
+### Breaking changes
+
+* If you select an Expert group button mode on one computer, synchronize your extensions with your browser profile, and log into your browser profile on another computer or/and in a different version of the browser, then the Expert group button mode will not get automatically applied there, as the required permissions you granted on one computer do not get synchronized with your browser profile, and will be automatically converted to a corresponding Advanced group button mode.
+
+  _Go to Options to grant the required permissions and enable your favorite Expert group button mode_.
+
+### Fix
+
+* Settings import or browser sync of an Expert group button mode would trigger an exception asking users to report it to the developer.
+
+  > Thank you those of you who have reported the issue.
+
+  > A big thank-you goes to those of you who have provided additional information and/or assistance in debugging the issue: _Åke Svensson, Willem Dijkstra, Jacinta Yap, Terry Bennett, Julio C., Alfredo Gil, John Winter_.
+
+  > A very special thank-you goes to _Phil Reilly ([@pjpreilly](https://github.com/pjpreilly))_ for getting to the bottom of the issue!
+
+* In Options, “Restore defaults” and “Author's settings” buttons wouldn't work.
+
+### Improved
+
+* In Options, extension no longer requests to reload it on a button mode group change.
+
+---
+
 ## v9.4.6
 
 ### Attempting to fix
