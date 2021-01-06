@@ -6,6 +6,20 @@
 
 > [Become a patron](https://www.patreon.com/bePatron?c=1906606)
 
+## v10.0.3
+
+### Fixed
+
+* Button(s) would show up in full screen on YouTube in Chrome 87 in some cases.
+
+  > Issue reported by Lucian Andries via the [Support tab](https://chrome.google.com/webstore/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj/support).
+
+### Improved
+
+* Page scrolling might become smoother in some cases.
+
+---
+
 ## v10.0.2
 
 ### Improved
@@ -120,13 +134,13 @@
 
 * Added a self-defense mechanism against website scripts and other extensions (addons) that try to change the look of Scroll To Top Button.
 
-  > Based on feedback from Lucian Andries via the [Support tab](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/support).
+  > Based on feedback from Lucian Andries via the [Support tab](https://chrome.google.com/webstore/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj/support).
 
 ### Improved
 
 * Extension will now request to report the issue when it fails to activate an Expert mode by sending over some debugging information to the developer.
 
-  > Based on feedback from phil reilly via the [Support tab](https://chrome.google.com/webstore/detail/pozitone/bdglbogiolkffcmojmmkipgnpkfipijm/support) and Dubravka, Åke Svensson, Willem Dijkstra, and an anonymous user via the [feedback form](https://goo.gl/forms/QMZFZfgKjQHOnRCX2).
+  > Based on feedback from phil reilly via the [Support tab](https://chrome.google.com/webstore/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj/support) and Dubravka, Åke Svensson, Willem Dijkstra, and an anonymous user via the [feedback form](https://goo.gl/forms/QMZFZfgKjQHOnRCX2).
 
 ---
 
