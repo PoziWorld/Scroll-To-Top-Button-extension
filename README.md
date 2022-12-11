@@ -78,7 +78,7 @@ If you find Scroll To Top Button useful, why not recommend it to your friends, c
 
 There are a few ways you can help our cause:
 
-* Follow us on [Telegram](https://t.me/s/ScrollToTopButton "Scroll To Top Button on Telegram"), [Facebook](https://www.facebook.com/ScrollToTopButton "Scroll To Top Button on Facebook"), [Twitter](https://twitter.com/ScrollToTopBtn "Scroll To Top Button on Twitter"), [VK](https://vk.com/scrolltotopbutton "Scroll To Top Button on VK"), and [OK](https://ok.ru/group/54802374459420 "Scroll To Top Button on OK").
+* Follow us on [Twitter](https://twitter.com/ScrollToTopBtn "Scroll To Top Button on Twitter").
 * Share the installation link on your social networks and/or blog:
   * [Scroll To Top Button for Chrome](https://chrome.google.com/webstore/detail/scroll-to-top-button/chinfkfmaefdlchhempbfgbdagheknoj)
   * [Scroll To Top Button for Firefox](https://addons.mozilla.org/firefox/addon/scroll-to-top-button-extension/)
@@ -119,12 +119,7 @@ We appreciate your feedback!
 Scroll To Top Button on social networks
 --------
 
-- [Scroll To Top Button on Telegram](https://t.me/s/ScrollToTopButton)
 - [Scroll To Top Button on Twitter](https://twitter.com/ScrollToTopBtn)
-- [Scroll To Top Button on Facebook](https://www.facebook.com/ScrollToTopButton)
-- [Scroll To Top Button on Steemit](https://steemit.com/@scrolltotopbtn)
-- [Scroll To Top Button on VK](https://vk.com/scrolltotopbutton)
-- [Scroll To Top Button on OK](https://ok.ru/group/54802374459420)
 
 <sup>(back to [table of contents](#table-of-contents))</sup>
 
