@@ -1,6 +1,6 @@
 # Scroll To Top Button version history (changelog)
 
-> [Follow Scroll To Top Button updates](README.md##scroll-to-top-button-on-social-networks)
+> [Follow Scroll To Top Button updates](README.md#scroll-to-top-button-on-social-networks)
 
 > Help [translate Scroll To Top Button](https://www.transifex.com/poziworld/scroll-to-top-button/)
 
