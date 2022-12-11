@@ -6,6 +6,47 @@
 
 > [Become a patron](https://www.patreon.com/bePatron?c=1906606)
 
+## v11.1.0
+
+### New
+
+* Added a new setting in Options: “Infinite scroll down”.
+
+  Available in the “Flip between top & bottom” and “Dual arrows” Expert button modes only.
+
+  _(Disabled by default.)_
+
+  > [Idea](https://github.com/PoziWorld/Scroll-To-Top-Button-extension/issues/18) by [UNIVAC-Colonel-Panic](https://github.com/UNIVAC-Colonel-Panic), Pradeep Kumar Salwan (via Chrome Web Store), TED T, Hosa.
+
+### Fixed
+
+* In Options, “Scroll up speed” wouldn't appear after switching from Basic or Advanced to Expert.
+
+### Improved
+
+* In Options, split “Button settings” into “Scroll settings” and “Button display settings”.
+
+* In Options, added an “i” (“information”) icon to indicate there is a tooltip.
+
+### Changed
+
+* Disabled requests to report auto-detected issues, such as:
+  - Expert mode activation issue.
+  - Permissions check issue.
+  - Permissions request issue.
+  - Extension reload issue.
+  - Repeated style attribute changes issue.
+
+  Haven't kept up with all the reports, and the reports don't always provide enough context / the full picture, such as the other extensions that might be changing the style attribute.
+
+* Removed the links to the no longer up-to-date social media accounts in [README](README.md).
+
+  _Telegram account got disabled/removed without a warning or explanation ~14 months ago._ 🤷
+
+  _Facebook account got disabled because it was asking to confirm an old phone number without an ability to change it._ 🤷
+
+---
+
 ## v11.0.1
 
 ### Fixed
